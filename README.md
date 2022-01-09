@@ -21,7 +21,7 @@ A showcase of critical projects I created
 
 <img src="https://user-images.githubusercontent.com/60249504/147842082-fcc79a70-9650-4c66-90bf-d2b41b376309.PNG" alt="Img Couldn't Load" width="800">
 
-##Software Rasterizer
+## Software Rasterizer
 
 <img src="https://user-images.githubusercontent.com/60249504/147909021-5a145ad4-95fa-47a5-86ab-d3db2dd74a04.gif" alt="Img Couldn't Load" width="800">
 
