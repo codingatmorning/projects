@@ -1,7 +1,7 @@
 # Projects
 A showcase of critical projects I created
 
-## Kubernetes AWS scraper
+## Kubernetes AWS website scraper API
 
 <img src="https://user-images.githubusercontent.com/60249504/148848171-5d554da6-632b-496e-b2d1-39baba97503f.gif" alt="Img Couldn't Load" width="800">
 
