@@ -15,7 +15,7 @@ A showcase of critical projects I created
 
 ## Messaging App 
 
-<img src="https://user-images.githubusercontent.com/60249504/149601408-2d5c9743-3f41-4c21-bd86-9db3f10c2ead.gif" alt="Img Couldn't Load" width="800">
+<img src="https://user-images.githubusercontent.com/60249504/149607582-0972ffc6-efc3-45f1-99cf-68ffcc7ecb5f.gif" alt="Img Couldn't Load" width="800">
 
 ## Kd-Tree Preview
 
