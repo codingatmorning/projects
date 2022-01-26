@@ -47,14 +47,14 @@ from ledger
 
 where PERSON='ADAH TALBOT';
 
---is helping me identify what the porpuse of recieved is and now i know that recieved is items that farm has aquired from their employees doing work.
+--is helping me identify what the porpuse of recieved is and now i know that recieved is items that farm has acquired from their employees doing work.
 select * from ledger
 where item in (
 select item
 from ledger
 where action='RECEIVED')
 
---these are all the items
+--These are all the items
 select distinct item from ledger
 where  item in(
 select  item from ledger
@@ -70,7 +70,7 @@ where action='BOUGHT' or action='RECIEVED'
 
 
 
---this finds the rate cost of all the items. i found the telephone item kinda odd so i did a where statment to see the info about it turns out they charge a flat rate per call.
+--This finds the rate cost of all the items. i found the telephone item kinda odd so i did a where statment to see the info about it turns out they charge a flat rate per call.
 select avg(rate) from ledger
 where  item in(
 select  item from ledger
@@ -78,7 +78,7 @@ where action='BOUGHT' or action='RECIEVED')
 group by item
 order by item
 
---amount of each item
+--Amount of each item
 select sum(quantity) from ledger
 where  item in(
 select  item from ledger
@@ -87,7 +87,7 @@ group by item
 order by item
 
 
---i found that the quantity type for the same item can be different.
+--I found that the quantity type for the same item can be different.
 select item,quantitytype from(
 select distinct item, quantitytype from ledger
 where  item in(
@@ -99,7 +99,7 @@ order by item, quantitytype)
 
 
 
---this query returns the name of items that use more than one quantity to describe the amount of an item
+--This query returns the name of items that use more than one quantity to describe the amount of an item
 select item,quanttypes
 from(
 select item, count(item) as quanttypes
@@ -116,9 +116,9 @@ group by item
 order by count(item) desc
 )
 where quanttypes>1
---also because of this the amount isnt accurate cause the unit bushel is used and a bushel=60 pounds. so the quantity should be 60 lbs, and the amount instead would be around 100 dollars
+--Also because of this the amount isnt accurate cause the unit bushel is used and a bushel=60 pounds. so the quantity should be 60 lbs, and the amount instead would be around 100 dollars
 
---for future devolpment we can make a check to see if the quantity type does not match with the quantitytype of the same item, then you cant enter it. this will help to streamline the operations
+--for future devolpment we can make a check to see if the quantity type does not match with the quantity type of the same item, then you cant enter it. this will help to streamline the operations
 --so to fix this now well just update a few columns so the quantity types match up for that item. So when orderin hominy you dont make one order in pounds, and the other in bushels.
 -- this will help so that way you will know what unit of measure your total inventory of a particular item is in. so one day you order 6 pounds, and the other day you order 2 bushels. 
 --How are you gonna calculate the total amount from that.this also would in turn put less stress on the developers or analysts, so they can do thier job quicker and you dont have to pay them as much.
