@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/60249504/136651126-91e6ee99-4b8d-4b79-a563-aeed1d048aff.gif" alt="Img Couldn't Load" width="800">
 
-1. I provided a distribution for windows 10 intel x86_64, run the program by click appl.exe (z is up, not y)
+1. I provided a distribution for windows 10 intel x86_64, run the program by clicking appl.exe (z is up, not y)
 
 2. The equation I used in the example was ``` z^2=25-(10-sqrt(x^2+y^2))^2 ```
 
