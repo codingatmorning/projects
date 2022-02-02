@@ -7,6 +7,5 @@
 | :warning: | Be wary the front end code is ussually good at handling subprocess, but sometimes the back end process will be left running so make sure after using the program open task manager and see if a process back.exe is left running |
 
 ```! The distribution should work for windows 10 intel x86-64 systems. Everything is statically linked, and if not libraries are provided. To run the program start appl.exe ``` 
-<span style="color:orange;">Word up</span>
-
+[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 - [ ] Make back end sub process a daemon to counter inconsistent garbage collection
