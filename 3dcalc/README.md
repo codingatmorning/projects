@@ -7,3 +7,12 @@
 ```!  ``` 
 [![](https://img.shields.io/badge/The_distribution-lightblue?style=for-the-badge)]()
 - [ ] Make back end sub process a daemon to counter inconsistent garbage collection
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
