@@ -6,7 +6,7 @@
 
 ```!  ``` 
 [![](https://img.shields.io/badge/The_distribution-lightblue?style=for-the-badge)]()
-- [ ] Make back end sub process a daemon to counter inconsistent garbage collection
+- [ ] Run back.exe as daemon instead of as subprocess
 
 
 ```diff
