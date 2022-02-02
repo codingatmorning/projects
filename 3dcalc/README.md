@@ -6,7 +6,7 @@
 
 2. The equation I used in the example was ``` z^2=25-(10-sqrt(x^2+y^2))^2 ```
 
-3. The front end python code has been posted however the back end code remains private. However, I provided a windows executable of the backend back.exe that works on the above system
+``` The front end python code has been posted however the back end code remains private. However, I provided a windows executable of the backend back.exe that works on the above system ```
 
 4. The python code was compiled with nuitka, and the python libraries used were numpy, pyqt5, and subprocess
 
