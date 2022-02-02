@@ -9,7 +9,7 @@
 - [ ] Make back end sub process a daemon to counter inconsistent garbage collection
 
 
-```
+```diff
 - text in red
 + I provided a distribution for windows 10 intel x86_64
 + The equation I used in the example was
