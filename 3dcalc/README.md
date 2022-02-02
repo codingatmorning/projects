@@ -5,5 +5,5 @@
 | :warning: | Be wary the front end code is ussually good at handling subprocess, but sometimes the back end process will be left running so make sure after using the program open task manager and see if a process back.exe is left running |
 
 ```!  ``` 
-[![](https://img.shields.io/badge/The distribution should work for windows 10 intel x86-64 systems. Everything is statically linked, and if not libraries are provided. To run the program start appl.exe-lightblue?style=for-the-badge)]()
+[![](https://img.shields.io/badge/The_distribution-lightblue?style=for-the-badge)]()
 - [ ] Make back end sub process a daemon to counter inconsistent garbage collection
