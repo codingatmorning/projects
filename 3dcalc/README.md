@@ -1,5 +1,5 @@
 # 3D Implicit Graphing Calculator
-
+| a | b |
 | --- | --- |
 | a | The distribution should work for windows 10 intel x86-64 systems. Everything is statically linked, and if not libraries are provided. To run the program start appl.exe |
 
