@@ -1,0 +1,21 @@
+{
+  "name": "scraper",
+  "author": "Philip Yazvin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "files": [
+    "*"
+  ],
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "jsdom": "^19.0.0",
+    "puppeteer": "^13.0.1"
+  }
+}
