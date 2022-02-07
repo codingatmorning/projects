@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node docker_test.js"
+    "start": "node kubernetes_test.js"
   },
   "keywords": [],
   "author": "",
