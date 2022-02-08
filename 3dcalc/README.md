@@ -4,7 +4,7 @@
 
 # Basic Info
 
-:cherry_blossom: I provided a distribution for windows 10 intel x86_64, run the program by clicking appl.exe (z is up, not y)
+:cherry_blossom: I provided a distribution for intel x86_64, run the program by clicking appl.exe (z is up, not y)
 
 :cherry_blossom: The equation I used in the example was ``` z^2=25-(10-sqrt(x^2+y^2))^2 ```
 
