@@ -10,5 +10,5 @@ Additional methods can/may be added such as rebuilding/repartitioning, meaning o
 A build script is included however it is for the gnu toolchain. So, to run it go into any terminal, and get in the directory and type ./build.sh. If you don't use the gnu toolchain use any other compiler, it's a single file implememintation and uses only c++ standard libraries.
 
 - [x] Add operator [] to vertex
-- [] Add operator [] to triangle 
-- [] Convert to templatable BVH
+- [ ] Add operator [] to triangle 
+- [ ] Convert to templatable BVH
