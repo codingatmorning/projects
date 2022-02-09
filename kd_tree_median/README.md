@@ -12,4 +12,5 @@ A build script is included however it is for the gnu toolchain. So, to run it go
 - [x] Add operator [] to vertex
 - [ ] Add operator [] to triangle 
 - [ ] Convert to templatable BVH
-This is a little rough as I didn't spend too much time on it
+
+!This can be easily translated to a professional environment
