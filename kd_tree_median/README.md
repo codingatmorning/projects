@@ -13,4 +13,4 @@ A build script is included however it is for the gnu toolchain. So, to run it go
 - [ ] Add operator [] to triangle 
 - [ ] Convert to templatable BVH
 
-!This can be easily translated to a professional environment
+:collision: Can be translated to a lot of applications, and uses
