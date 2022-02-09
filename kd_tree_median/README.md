@@ -1,6 +1,6 @@
 ##### Description
 This is an implemntation of a 3 dimensional kd-tree. It uses the median algorithm which is space filling
-This is implemented specifically for triangles, however a n-dimensional bvh (Bounding Volume Heirarchy) kd-tree can be implemented, or an n-dimensional point kd-tree could be implemented.
+This is implemented specifically for triangles, however a n-dimensional bvh (Bounding Volume Heirarchy) kd-tree can be implemented
 
 All this meaning a template version could be created however the templates would have to vary on what the tree is being used for. Bounding Volumes, or Points. 
 
