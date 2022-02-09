@@ -8,7 +8,7 @@
 
 :cherry_blossom: The equation I used in the example was ``` z^2=25-(10-sqrt(x^2+y^2))^2 ```
 
-:cherry_blossom: The front end python code has been posted however the back end code remains private. However, I provided a x86_64 executable of the backend back.exe that works on the above system 
+:cherry_blossom: The front end python code has been posted however the back end code remains private. However, I provided a x86_64 executable of the backend back.exe.
 
 :cherry_blossom: The python code was compiled with nuitka, and the python libraries used were numpy, pyqt5, and subprocess
 
