@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="200">
+<img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="500">
 
 ##### Description
 This is an implemntation of a 3 dimensional kd-tree. It uses the median algorithm which is space filling
