@@ -4,10 +4,10 @@
 
 This is an implemntation of a KDBVH Tree
 
-:sparkler: It stores a Bounding Volume in N dimensions (x,y,z,w,...)
-:fireworks: 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)
-:sparkler: Simply Inhert BVH class, and your Object is now storable in a BVH Tree
-    :fireworks: Just define get_bounds()
+:sparkler: It stores a Bounding Volume in N dimensions (x,y,z,w,...)/
+:fireworks: 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)/
+:sparkler: Simply Inhert BVH class, and your Object is now storable in a BVH Tree/
+:fireworks: Just define get_bounds()
 :sparkler: The Tree is Space-Filling which means worse case access time is log(n)
 
 ## Build
