@@ -12,7 +12,7 @@
 
 - Build Script included ./build.sh
   - For different Compilers change the code to compiler equivalent
-- Compile with Define Example to see Example Usage
+- Compile with -DExample to see Example Usage
 
 ## Future Additions
 
