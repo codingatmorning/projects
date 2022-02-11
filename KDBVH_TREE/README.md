@@ -1,6 +1,6 @@
 ## Description - implementation of KDBVH-Tree
 
-- It stores a Bounding Volume in N dimensions (x,y,z,w,...)  
+- It stores objects in a Bounding Volume in N dimensions (x,y,z,w,...)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)  
 
