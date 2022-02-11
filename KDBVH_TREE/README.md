@@ -24,7 +24,7 @@
 - Vector
 - Functor
 - Operator Overloading
-- Bit Effeciency
+- Bit Efficiency
       
 ## Applications 
 - :collision: Can be used in a lot of applications, and uses
