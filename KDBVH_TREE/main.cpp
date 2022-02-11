@@ -41,14 +41,17 @@ class triangle : public bounding_box
 public:
     // Triangle has 3 vertices
     Vertex vertex[3];
+    // Set ID of Triangle
     triangle(std::string id)
     {
         this->id = id;
     }
+    // Allows [0..] to access vertex (Optional)
     Vertex &operator[](unsigned int index)
     {
         return vertex[index];
     }
+    // define get_bounds(required)
     void get_bounds()
     {
         this->max = vertex[0];
@@ -73,6 +76,7 @@ public:
 // Example usage of Bounding Box (Model)
 class model : public bounding_box
 {
+    // Set id of model
     model(std::string id)
     {
         this->id = id;
@@ -81,10 +85,12 @@ class model : public bounding_box
     Vertex vertex[4]{{10, 2, 3}, {1, 2, 3}, {5, 6, 7}, {3, 2, 1}};
     int data_2;
     int data2;
+    // allows you to acces vertices [0...] (Optional)
     Vertex &operator[](unsigned int index)
     {
         return vertex[index];
     }
+    // define get_bounds(required)
     void get_bounds()
     {
         this->max = vertex[0];
