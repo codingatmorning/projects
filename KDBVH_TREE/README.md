@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)  
 
-■ Simply Inhert BVH class, and your Object is now storable in a BVH Tree  
+■ Simply Inherit BVH class, and your Object is now storable in a BVH Tree  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Just define get_bounds()  
 
