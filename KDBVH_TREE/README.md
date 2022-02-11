@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="500">
 
-##### Description
+## Description
 
 This is an implemntation of a KDBVH Tree
 
@@ -10,17 +10,17 @@ This is an implemntation of a KDBVH Tree
   - Just define get_bounds()
 - The Tree is Space-Filling which means worse case access time is log(n)
 
-##### Build
+## Build
 
 - Build Script included ./build.sh
   - For different Compilers change the code to compiler equivalent
 - Compile with Define Example to see Example Usage
 
-##### Future Additions
+## Future Additions
 
 - [ ] Auto-Repartition
       - When an Object stored in the leaf transforms it should move itself to the proper leaf
       
-##### Applications 
+## Applications 
 - :collision: Can be used in a lot of applications, and uses
   - Spacial Database, Computer Graphics, Mathametical Visualization...
