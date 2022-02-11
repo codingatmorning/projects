@@ -18,6 +18,3 @@
 - :collision: Can be used in a lot of applications, and uses
   - Spacial Database, Computer Graphics, Mathametical Visualization...
 
-#### Future Additions
-- [ ] Auto-Repartition
-      - When an Object stored in the leaf transforms it should move itself to the proper leaf
