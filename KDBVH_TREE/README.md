@@ -4,8 +4,8 @@
 
 This is an implemntation of a KDBVH Tree
 
-:beginner: It stores a Bounding Volume in N dimensions (x,y,z,w,...)
- - 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)
+- It stores a Bounding Volume in N dimensions (x,y,z,w,...)
+    - 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)
 :beginner: Simply Inhert BVH class, and your Object is now storable in a BVH Tree
  - Just define get_bounds()
 :beginner: The Tree is Space-Filling which means worse case access time is log(n)
