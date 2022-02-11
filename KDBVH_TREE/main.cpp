@@ -1,5 +1,6 @@
 //Author Philip Yazvin
 //Date 2/10/2022
+//All Rights Reserved
 #include <map>
 #include <string>
 #include <algorithm>
