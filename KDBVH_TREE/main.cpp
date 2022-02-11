@@ -183,6 +183,7 @@ double find_median(std::vector<std::shared_ptr<bounding_box>> bvs, unsigned char
 class bvh_node
 {
 public:
+    // 2 Bits for 3 Axis/Dimensions (Change According to your Needs)
     unsigned char axis : 2;
     double division;
     bvh_node *left_node = nullptr;
