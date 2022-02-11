@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="500">
-
 ## Description - implementation of KDBVH-Tree
 
 - It stores a Bounding Volume in N dimensions (x,y,z,w,...)  
@@ -17,6 +15,16 @@
 - Build Script included ./build.sh
   - For different Compilers change the code to compiler equivalent
 - Compile with -DExample to see Example Usage
+
+## Constructs
+- Shared_Ptr
+- Polymorphism
+- Macros
+- Typedef
+- Vector
+- Functor
+- Operator Overloading
+- Bit Effeciency
       
 ## Applications 
 - :collision: Can be used in a lot of applications, and uses
