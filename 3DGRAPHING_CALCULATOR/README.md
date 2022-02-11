@@ -14,4 +14,4 @@
 
 - The program is usually good about closing background processes, but sometimes back.exe is left running so check task manager
 
-- [ ] Run back.exe as daemon instead of as subprocess
+&nbsp; - [ ] Run back.exe as daemon instead of as subprocess
