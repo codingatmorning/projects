@@ -162,7 +162,7 @@ double find_median(std::vector<std::shared_ptr<bounding_box>> bvs, unsigned char
 {
     std::vector<Vertex> buffer;
     unsigned int size = (unsigned int)bvs.size();
-    for (int i = 0; i < size; i++)
+    for (int i = 0; i < (unsigned int)size; i++)
     {
         Vertex max;
         Vertex min;
