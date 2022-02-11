@@ -1,5 +1,5 @@
-//Author Philip Yazvin
-//Date 2/10/2022
+// Author Philip Yazvin
+// Date 2/10/2022
 #include <map>
 #include <string>
 #include <algorithm>
@@ -31,10 +31,7 @@ public:
     Vertex max, min;
     std::string id;
     // get bounds
-    virtual void get_bounds()
-    {
-        std::cout << "get_bounds undefined";
-    };
+    virtual void get_bounds() = 0;
 };
 #ifdef Example
 // Example Usage of Bounding Box (Triangle)
