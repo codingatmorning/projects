@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="500">
 
 ## Description
-This is an implemntation of a KDBVH Tree
+This is an implemntation of a KDBVH Tree//
 :sparkler: It stores a Bounding Volume in N dimensions (x,y,z,w,...)/
 :fireworks: 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)/
 :sparkler: Simply Inhert BVH class, and your Object is now storable in a BVH Tree/
