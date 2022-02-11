@@ -13,12 +13,11 @@
 - Build Script included ./build.sh
   - For different Compilers change the code to compiler equivalent
 - Compile with -DExample to see Example Usage
-
-## Future Additions
-
-- [ ] Auto-Repartition
-      - When an Object stored in the leaf transforms it should move itself to the proper leaf
       
 ## Applications 
 - :collision: Can be used in a lot of applications, and uses
   - Spacial Database, Computer Graphics, Mathametical Visualization...
+
+#### Future Additions
+- [ ] Auto-Repartition
+      - When an Object stored in the leaf transforms it should move itself to the proper leaf
