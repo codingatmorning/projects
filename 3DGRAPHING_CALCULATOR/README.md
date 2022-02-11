@@ -12,6 +12,4 @@
 
 - The python code was compiled with nuitka, and the python libraries used were numpy, pyqt5, and subprocess
 
-- The program is usually good about closing background processes, but sometimes back.exe is left running so check task manager
-
-&nbsp; - [ ] Run back.exe as daemon instead of as subprocess
+- The program is usually good about closing background processes, but sometimes back.exe is left running so check task manager (Need to change to Daemon or Library)
