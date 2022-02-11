@@ -19,6 +19,7 @@
 ## Constructs
 - Shared_Ptr
 - Polymorphism
+- Inheritance
 - Macros
 - Typedef
 - Vector
