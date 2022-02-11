@@ -198,16 +198,16 @@ public:
     bvh_node(std::vector<std::shared_ptr<bounding_box>> que_p, unsigned char depth)
     {
         depth = depth - 1;
-        axis = depth % 3;
+        axis = depth % dim;
         if (que_p.size() == 1 || que_p.size() == 0 || depth == 0)
         {
             storage = que_p;
         }
         else
         {
-            division = find_median(que_p, depth % 3);
-            left_node = new bvh_node(seperate_left(que_p, depth % 3, division), depth);
-            right_node = new bvh_node(seperate_right(que_p, depth % 3, division), depth);
+            division = find_median(que_p, depth % dim);
+            left_node = new bvh_node(seperate_left(que_p, depth % dim, division), depth);
+            right_node = new bvh_node(seperate_right(que_p, depth % dim, division), depth);
         }
     }
 };
