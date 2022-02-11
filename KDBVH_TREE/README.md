@@ -17,6 +17,16 @@
 - Build Script included ./build.sh
   - For different Compilers change the code to compiler equivalent
 - Compile with -DExample to see Example Usage
+
+## Constructs
+- Shared_Ptr
+- Polymorphism
+- Macros
+- Typedef
+- Vector
+- Functor
+- Operator Overloading
+- Bit Effeciency
       
 ## Applications 
 - :collision: Can be used in a lot of applications, and uses
