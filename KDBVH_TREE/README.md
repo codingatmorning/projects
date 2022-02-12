@@ -1,4 +1,4 @@
-## Description - implementation of KDBVH-Tree
+## Description - Implementation of KDBVH-Tree
 
 - It stores objects in a Bounding Volume in N dimensions (x,y,z,w,...)  
 
