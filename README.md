@@ -17,7 +17,7 @@ A showcase of some projects I have created
 
 <img src="https://user-images.githubusercontent.com/60249504/149607640-3a2d6b25-dc63-4342-b3d7-0aba88322332.gif" alt="Img Couldn't Load" width="800">
 
-## BVH-Tree Preview
+## KDBVH-Tree Preview
 
 <img src="https://user-images.githubusercontent.com/60249504/147365454-ec78a07c-8121-4341-b229-825325cf4b92.gif" alt="Img Couldn't Load" width="800">
 
