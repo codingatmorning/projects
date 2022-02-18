@@ -3,6 +3,7 @@
 - It stores objects in a Hypercube Bounding Volume (x, y, z, w, ... n-Dimensions)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2D = Square, 3D = Cube, 4D = Tesseract, .... (Hypercube)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Just define dim with a value 1, 2, 3, ... however many dimensions you want
 
 - Simply Inherit BVH class, and your Object is now storable in a BVH Tree  
 
