@@ -1,8 +1,8 @@
 ## Description - Implementation of KDBVH-Tree
 
-- It stores objects in a Bounding Volume in N dimensions (x,y,z,w,...)  
+- It stores objects in a HyperCube Bounding Volume (x,y,z,w,... N-Dimensions)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2D = Square, 3d = Cube, 4d = Tesseract, .... (Hyper Cube)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 2D = Square, 3D = Cube, 4D = Tesseract, .... (Hyper Cube)  
 
 - Simply Inherit BVH class, and your Object is now storable in a BVH Tree  
 
