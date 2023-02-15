@@ -1,7 +1,5 @@
 # Projects
-A showcase of some projects I have created
-
-https://youtu.be/K7qzr44obEA
+A showcase of some projects I have created, some code might be redacted.
 
 ## Kubernetes AWS Web Scraper API 
 
