@@ -1,13 +1,13 @@
 # Projects
 A showcase of some projects I have created
 
-## OIDC with IP Authentication/Authorization
-
-https://user-images.githubusercontent.com/60249504/218975540-7cd318c7-bd77-426b-b815-edd787564690.mp4
-
 ## 3D Implicit Calculator 
 
 <img src="https://user-images.githubusercontent.com/60249504/136651126-91e6ee99-4b8d-4b79-a563-aeed1d048aff.gif" alt="Img Couldn't Load" width="800">
+
+## OIDC with IP Authentication/Authorization
+
+https://user-images.githubusercontent.com/60249504/218975540-7cd318c7-bd77-426b-b815-edd787564690.mp4
 
 ## Kubernetes AWS Web Scraper API 
 
