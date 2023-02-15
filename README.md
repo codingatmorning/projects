@@ -1,6 +1,8 @@
 # Projects
 A showcase of some projects I have created
 
+https://youtu.be/K7qzr44obEA
+
 ## Kubernetes AWS Web Scraper API 
 
 <img src="https://user-images.githubusercontent.com/60249504/148848171-5d554da6-632b-496e-b2d1-39baba97503f.gif" alt="Img Couldn't Load" width="800">
