@@ -1,5 +1,5 @@
 # Projects
-A showcase of some projects I have created, some code might be redacted.
+A showcase of some projects I have created
 
 ## Kubernetes AWS Web Scraper API 
 
