@@ -10,6 +10,8 @@
 
 - The front end python code has been posted however the back end code remains private. However, I provided a x86_64 executable of the backend back.exe.
 
+- The backend was written in c++ using openmp for multi-threading, atsmp for math equation parsing, and discrete space algorithm used for calculations.
+
 - The python code was compiled with nuitka, and the python libraries used were numpy, pyqt5, and subprocess
 
 - The program is usually good about closing background processes, but sometimes back.exe is left running so check task manager (Need to change to Daemon or Library)
