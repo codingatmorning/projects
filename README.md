@@ -1,5 +1,5 @@
 # Projects
-A showcase of some projects I have created
+A showcase of some projects I have created. Full code is not provided to prevent plagiarism, and some of it being propreitary.
 
 ## 3D Implicit Calculator 
 
