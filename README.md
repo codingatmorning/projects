@@ -7,7 +7,7 @@ A showcase of some projects I have created. Full code may not be provided to pre
 
 ## OIDC with IP Authentication/Authorization
 
-https://user-images.githubusercontent.com/60249504/218975540-7cd318c7-bd77-426b-b815-edd787564690.mp4
+[remaking video]
 
 ## Kubernetes AWS Web Scraper API 
 
