@@ -1,9 +1,13 @@
 # Projects
 A showcase of some projects I have created. Full code may not be provided to prevent plagiarism, and some of it being proprietary.
 
-## Asp.net Core Full Stack
+## Asp.net Core Full Stack Application
 
 https://github.com/codingatmorning/Projects/assets/60249504/bc0e4655-f344-4201-a9d5-ef8d194179c3
+
+## Flask Full Stack Application
+
+https://github.com/codingatmorning/Projects/assets/60249504/7855e30a-91a1-4869-9979-1594fa1e5eb4
 
 ## 3D Implicit Calculator 
 
