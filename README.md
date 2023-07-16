@@ -3,6 +3,8 @@ A showcase of some projects I have created. Full code may not be provided to pre
 
 ## Asp.net Core Full Stack
 
+https://github.com/codingatmorning/Projects/assets/60249504/bc0e4655-f344-4201-a9d5-ef8d194179c3
+
 ## 3D Implicit Calculator 
 
 <img src="https://user-images.githubusercontent.com/60249504/136651126-91e6ee99-4b8d-4b79-a563-aeed1d048aff.gif" alt="Img Couldn't Load" width="800">
