@@ -13,9 +13,9 @@ https://github.com/codingatmorning/Projects/assets/60249504/7855e30a-91a1-4869-9
 
 <img src="https://user-images.githubusercontent.com/60249504/136651126-91e6ee99-4b8d-4b79-a563-aeed1d048aff.gif" alt="Img Couldn't Load" width="800">
 
-## OIDC with IP Authentication/Authorization
+## Java Spring Framework Full Stack Application
 
-[remaking video]
+https://github.com/codingatmorning/Projects/assets/60249504/7d7cb7d6-702a-4696-813e-202ea66d0700
 
 ## Kubernetes AWS Web Scraper API 
 
