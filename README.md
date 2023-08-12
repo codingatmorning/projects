@@ -3,15 +3,16 @@ A showcase of some projects I have created. Full code may not be provided to pre
 
 ## C# Asp.net Core Full Stack Application
 
-https://github.com/codingatmorning/Projects/assets/60249504/bc0e4655-f344-4201-a9d5-ef8d194179c3
+
 
 ## Python Flask Full Stack Application
 
-https://github.com/codingatmorning/Projects/assets/60249504/7855e30a-91a1-4869-9979-1594fa1e5eb4
+
 
 ## Java Spring Framework Full Stack Application
 
-https://github.com/codingatmorning/Projects/assets/60249504/7d7cb7d6-702a-4696-813e-202ea66d0700
+## Review ML Analysis
+![image](https://github.com/codingatmorning/projects/assets/60249504/6b790c9b-22bf-45d6-96fc-3438b575c4f7)
 
 ## 3D Implicit Calculator 
 
