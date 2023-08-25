@@ -5,6 +5,10 @@ A showcase of some projects I have created. Full code may not be provided to pre
 
 https://github.com/codingatmorning/projects/assets/60249504/9db2098e-277c-4844-b1cc-e34eb2b7920f
 
+## Messaging App 
+
+<img src="https://user-images.githubusercontent.com/60249504/149607640-3a2d6b25-dc63-4342-b3d7-0aba88322332.gif" alt="Img Couldn't Load" width="800">
+
 ## Python Flask Full Stack Application
 
 https://github.com/codingatmorning/projects/assets/60249504/820b7e0e-4e83-41d2-bb06-8d3d8cc7c4c3
@@ -28,10 +32,6 @@ https://github.com/codingatmorning/projects/assets/60249504/133e1756-4a99-4c3e-8
 ## React-Native Notification App 
 
 <img src="https://user-images.githubusercontent.com/60249504/147802067-15b8f1d5-a0fb-4c03-8207-2f4754b9c081.gif" alt="Img Couldn't Load" width="800">
-
-## Messaging App 
-
-<img src="https://user-images.githubusercontent.com/60249504/149607640-3a2d6b25-dc63-4342-b3d7-0aba88322332.gif" alt="Img Couldn't Load" width="800">
 
 ## KDBVH-Tree Preview
 
