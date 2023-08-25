@@ -13,6 +13,10 @@ https://github.com/codingatmorning/projects/assets/60249504/9db2098e-277c-4844-b
 
 https://github.com/codingatmorning/projects/assets/60249504/820b7e0e-4e83-41d2-bb06-8d3d8cc7c4c3
 
+## React-Native Notification App 
+
+<img src="https://user-images.githubusercontent.com/60249504/147802067-15b8f1d5-a0fb-4c03-8207-2f4754b9c081.gif" alt="Img Couldn't Load" width="800">
+
 ## Java Spring Framework Full Stack Application
 
 https://github.com/codingatmorning/projects/assets/60249504/133e1756-4a99-4c3e-85dd-0ae79b4e47c1
@@ -28,10 +32,6 @@ https://github.com/codingatmorning/projects/assets/60249504/133e1756-4a99-4c3e-8
 ## Kubernetes AWS Web Scraper API 
 
 <img src="https://user-images.githubusercontent.com/60249504/148848171-5d554da6-632b-496e-b2d1-39baba97503f.gif" alt="Img Couldn't Load" width="800">
-
-## React-Native Notification App 
-
-<img src="https://user-images.githubusercontent.com/60249504/147802067-15b8f1d5-a0fb-4c03-8207-2f4754b9c081.gif" alt="Img Couldn't Load" width="800">
 
 ## KDBVH-Tree Preview
 
